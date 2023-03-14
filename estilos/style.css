@@ -15,6 +15,7 @@ body {
   background: url('../imagens/fundo-madeira.jpg') no-repeat top center;
   background-size: cover;
   background-attachment: fixed;
+  padding-bottom: 60px;
 }
 
 main {
@@ -25,8 +26,8 @@ main {
 
 section#telefone {
   position: absolute;
-  top: 63%;
-  left: 50%;
+  top: 60%;
+  left: 50%;  
   transform: translate(-50%, -50%);
   height: 627px;
   width: 311px;  
