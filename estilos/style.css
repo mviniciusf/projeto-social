@@ -14,8 +14,7 @@ html , body {
 body {
   background: url('../imagens/fundo-madeira.jpg') no-repeat top center;
   background-size: cover;
-  background-attachment: fixed;
-  padding-bottom: 60px;
+  background-attachment: fixed;  
 }
 
 main {
@@ -26,7 +25,7 @@ main {
 
 section#telefone {
   position: absolute;
-  top: 58%;
+  top: 50%;
   left: 50%;  
   transform: translate(-50%, -50%);
   height: 627px;
@@ -43,7 +42,7 @@ iframe#tela {
 }
 
 section#redes-sociais {
-  text-align: center;
+  text-align: right;
   
 }
 section#redes-sociais img {
